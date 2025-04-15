@@ -1,0 +1,275 @@
+[
+  {
+    "id": 45680,
+    "name": "VentureSkill",
+    "email_domain": "ventureskill.com",
+    "created_at": "2018-01-10 19:22:37",
+    "updated_at": "2020-07-23 07:05:19",
+    "active_user_count": 102,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 45802,
+    "name": "Sprouter",
+    "email_domain": "sprouter.com",
+    "created_at": "2018-05-09 12:23:36",
+    "updated_at": "2020-07-18 07:05:18",
+    "active_user_count": 85,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 45804,
+    "name": "Jiffybake",
+    "email_domain": "jiffybake.com",
+    "created_at": "2018-05-05 21:42:28",
+    "updated_at": "2020-07-19 07:05:20",
+    "active_user_count": 82,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": false,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 46100,
+    "name": "Wearcade",
+    "email_domain": "wearcade.com",
+    "created_at": "2018-04-22 23:21:07",
+    "updated_at": "2020-07-23 07:05:19",
+    "active_user_count": 188,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 46383,
+    "name": "GardenBulb",
+    "email_domain": "gardenbulb.com",
+    "created_at": "2018-05-24 18:15:31",
+    "updated_at": "2020-07-20 07:05:23",
+    "active_user_count": 107,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 46778,
+    "name": "Cavawear",
+    "email_domain": "cavawear.com",
+    "created_at": "2018-07-11 09:31:15",
+    "updated_at": "2020-07-15 07:05:19",
+    "active_user_count": 108,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 46789,
+    "name": "KNITTERY",
+    "email_domain": "knittery.com",
+    "created_at": "2018-07-07 19:04:35",
+    "updated_at": "2020-07-13 07:05:17",
+    "active_user_count": 223,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 47698,
+    "name": "Weavel",
+    "email_domain": "weavel.com",
+    "created_at": "2018-08-05 21:31:24",
+    "updated_at": "2020-07-05 07:05:14",
+    "active_user_count": 209,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 47724,
+    "name": "Luckydogs",
+    "email_domain": "luckydogs.com",
+    "created_at": "2018-08-03 04:47:10",
+    "updated_at": "2020-07-21 07:05:19",
+    "active_user_count": 160,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 48137,
+    "name": "Yobbit",
+    "email_domain": "yobbit.com",
+    "created_at": "2018-09-16 09:19:09",
+    "updated_at": "2020-07-22 07:05:19",
+    "active_user_count": 167,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 48415,
+    "name": "Snoodle",
+    "email_domain": "snoodle.com",
+    "created_at": "2018-09-24 14:56:29",
+    "updated_at": "2020-07-23 07:05:19",
+    "active_user_count": 290,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": false,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 55191,
+    "name": "Fashionglance",
+    "email_domain": "fashionglance.com",
+    "created_at": "2019-04-15 20:18:15",
+    "updated_at": "2020-06-30 07:05:13",
+    "active_user_count": 83,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 58981,
+    "name": "Bakenatural",
+    "email_domain": "bakenatural.com",
+    "created_at": "2019-06-05 23:17:09",
+    "updated_at": "2020-07-16 07:05:18",
+    "active_user_count": 91,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 64508,
+    "name": "CRAFTERY",
+    "email_domain": "craftery.com",
+    "created_at": "2019-07-16 16:25:55",
+    "updated_at": "2020-07-23 07:05:20",
+    "active_user_count": 340,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 64984,
+    "name": "Launchband",
+    "email_domain": "launchband.com",
+    "created_at": "2019-07-18 00:53:19",
+    "updated_at": "2020-07-15 07:05:20",
+    "active_user_count": 142,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 78017,
+    "name": "utopiary",
+    "email_domain": "utopiary.com",
+    "created_at": "2019-11-30 14:39:24",
+    "updated_at": "2020-07-08 07:05:15",
+    "active_user_count": 117,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 97422,
+    "name": "Lunchwell",
+    "email_domain": "lunchwell.com",
+    "created_at": "2020-04-29 02:56:02",
+    "updated_at": "2020-06-20 07:05:25",
+    "active_user_count": 110,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 94032,
+    "name": "Walkwire",
+    "email_domain": "walkwire.com",
+    "created_at": "2020-03-24 21:47:54",
+    "updated_at": "2020-04-26 07:05:53",
+    "active_user_count": 92,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 94181,
+    "name": "Skibble",
+    "email_domain": "skibble.com",
+    "created_at": "2020-03-26 10:26:26",
+    "updated_at": "2020-07-09 07:05:16",
+    "active_user_count": 85,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  },
+  {
+    "id": 95427,
+    "name": "Grumping",
+    "email_domain": "grumping.com",
+    "created_at": "2020-04-08 14:29:52",
+    "updated_at": "2020-06-26 07:05:15",
+    "active_user_count": 93,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": false,
+      "members_can_invite": false
+    }
+  },
+  {
+    "id": 50747,
+    "name": "Mixapop",
+    "email_domain": "mixapop.com",
+    "created_at": "2018-07-31 06:50:48",
+    "updated_at": "2020-07-23 07:05:19",
+    "active_user_count": 123,
+    "preferences": {
+      "self_upgrade": true,
+      "public_sharing": true,
+      "members_can_invite": true
+    }
+  }
+]
