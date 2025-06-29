@@ -1,0 +1,101 @@
+country,area
+"(ABW,Aruba,""North America"",Caribbean,193,,103000,78.4,828.00,793.00,Aruba,""Nonmetropolitan Territory of The Netherlands"",Beatrix,129,AW)",193
+"(AFG,Afghanistan,Asia,""Southern and Central Asia"",652090,1919,22720000,45.9,5976.00,,Afganistan/Afqanestan,""Islamic Emirate"",""Mohammad Omar"",1,AF)",652090
+"(AGO,Angola,Africa,""Central Africa"",1.2467e+06,1975,12878000,38.3,6648.00,7984.00,Angola,Republic,""José Eduardo dos Santos"",56,AO)",1246700
+"(AIA,Anguilla,""North America"",Caribbean,96,,8000,76.1,63.20,,Anguilla,""Dependent Territory of the UK"",""Elisabeth II"",62,AI)",96
+"(ALB,Albania,Europe,""Southern Europe"",28748,1912,3401200,71.6,3205.00,2500.00,Shqipëria,Republic,""Rexhep Mejdani"",34,AL)",28748
+"(AND,Andorra,Europe,""Southern Europe"",468,1278,78000,83.5,1630.00,,Andorra,""Parliamentary Coprincipality"","""",55,AD)",468
+"(ANT,""Netherlands Antilles"",""North America"",Caribbean,800,,217000,74.7,1941.00,,""Nederlandse Antillen"",""Nonmetropolitan Territory of The Netherlands"",Beatrix,33,AN)",800
+"(ARE,""United Arab Emirates"",Asia,""Middle East"",83600,1971,2441000,74.1,37966.00,36846.00,""Al-Imarat al-´Arabiya al-Muttahida"",""Emirate Federation"",""Zayid bin Sultan al-Nahayan"",65,AE)",83600
+"(ARG,Argentina,""South America"",""South America"",2.7804e+06,1816,37032000,75.1,340238.00,323310.00,Argentina,""Federal Republic"",""Fernando de la Rúa"",69,AR)",2780400
+"(ARM,Armenia,Asia,""Middle East"",29800,1991,3520000,66.4,1813.00,1627.00,Hajastan,Republic,""Robert Kotarjan"",126,AM)",29800
+"(ASM,""American Samoa"",Oceania,Polynesia,199,,68000,75.1,334.00,,""Amerika Samoa"",""US Territory"",""George W. Bush"",54,AS)",199
+"(ATA,Antarctica,Antarctica,Antarctica,1.312e+07,,0,,0.00,,,Co-administrated,"""",,AQ)",13120000
+"(ATF,""French Southern territories"",Antarctica,Antarctica,7780,,0,,0.00,,""Terres australes françaises"",""Nonmetropolitan Territory of France"",""Jacques Chirac"",,TF)",7780
+"(ATG,""Antigua and Barbuda"",""North America"",Caribbean,442,1981,68000,70.5,612.00,584.00,""Antigua and Barbuda"",""Constitutional Monarchy"",""Elisabeth II"",63,AG)",442
+"(AUS,Australia,Oceania,""Australia and New Zealand"",7.74122e+06,1901,18886000,79.8,351182.00,392911.00,Australia,""Constitutional Monarchy, Federation"",""Elisabeth II"",135,AU)",7741220
+"(AUT,Austria,Europe,""Western Europe"",83859,1918,8091800,77.7,211860.00,206025.00,Österreich,""Federal Republic"",""Thomas Klestil"",1523,AT)",83859
+"(AZE,Azerbaijan,Asia,""Middle East"",86600,1991,7734000,62.9,4127.00,4100.00,Azärbaycan,""Federal Republic"",""Heydär Äliyev"",144,AZ)",86600
+"(BDI,Burundi,Africa,""Eastern Africa"",27834,1962,6695000,46.2,903.00,982.00,Burundi/Uburundi,Republic,""Pierre Buyoya"",552,BI)",27834
+"(BEL,Belgium,Europe,""Western Europe"",30518,1830,10239000,77.8,249704.00,243948.00,België/Belgique,""Constitutional Monarchy, Federation"",""Albert II"",179,BE)",30518
+"(BEN,Benin,Africa,""Western Africa"",112622,1960,6097000,50.2,2357.00,2141.00,Bénin,Republic,""Mathieu Kérékou"",187,BJ)",112622
+"(BFA,""Burkina Faso"",Africa,""Western Africa"",274000,1960,11937000,46.7,2425.00,2201.00,""Burkina Faso"",Republic,""Blaise Compaoré"",549,BF)",274000
+"(BGD,Bangladesh,Asia,""Southern and Central Asia"",143998,1971,129155000,60.2,32852.00,31966.00,Bangladesh,Republic,""Shahabuddin Ahmad"",150,BD)",143998
+"(BGR,Bulgaria,Europe,""Eastern Europe"",110994,1908,8190900,70.9,12178.00,10169.00,Balgarija,Republic,""Petar Stojanov"",539,BG)",110994
+"(BHR,Bahrain,Asia,""Middle East"",694,1971,617000,73,6366.00,6097.00,Al-Bahrayn,""Monarchy (Emirate)"",""Hamad ibn Isa al-Khalifa"",149,BH)",694
+"(BHS,Bahamas,""North America"",Caribbean,13878,1973,307000,71.1,3527.00,3347.00,""The Bahamas"",""Constitutional Monarchy"",""Elisabeth II"",148,BS)",13878
+"(BIH,""Bosnia and Herzegovina"",Europe,""Southern Europe"",51197,1992,3972000,71.5,2841.00,,""Bosna i Hercegovina"",""Federal Republic"",""Ante Jelavic"",201,BA)",51197
+"(BLR,Belarus,Europe,""Eastern Europe"",207600,1991,10236000,68,13714.00,,Belarus,Republic,""Aljaksandr Lukaenka"",3520,BY)",207600
+"(BLZ,Belize,""North America"",""Central America"",22696,1981,241000,70.9,630.00,616.00,Belize,""Constitutional Monarchy"",""Elisabeth II"",185,BZ)",22696
+"(BMU,Bermuda,""North America"",""North America"",53,,65000,76.9,2328.00,2190.00,Bermuda,""Dependent Territory of the UK"",""Elisabeth II"",191,BM)",53
+"(BOL,Bolivia,""South America"",""South America"",1.09858e+06,1825,8329000,63.7,8571.00,7967.00,Bolivia,Republic,""Hugo Bánzer Suárez"",194,BO)",1098580
+"(BRA,Brazil,""South America"",""South America"",8.5474e+06,1822,170115000,62.9,776739.00,804108.00,Brasil,""Federal Republic"",""Fernando Henrique Cardoso"",211,BR)",8547400
+"(BRB,Barbados,""North America"",Caribbean,430,1966,270000,73,2223.00,2186.00,Barbados,""Constitutional Monarchy"",""Elisabeth II"",174,BB)",430
+"(BRN,Brunei,Asia,""Southeast Asia"",5765,1984,328000,73.6,11705.00,12460.00,""Brunei Darussalam"",""Monarchy (Sultanate)"",""Haji Hassan al-Bolkiah"",538,BN)",5765
+"(BTN,Bhutan,Asia,""Southern and Central Asia"",47000,1910,2124000,52.4,372.00,383.00,Druk-Yul,Monarchy,""Jigme Singye Wangchuk"",192,BT)",47000
+"(BVT,""Bouvet Island"",Antarctica,Antarctica,59,,0,,0.00,,Bouvetøya,""Dependent Territory of Norway"",""Harald V"",,BV)",59
+"(BWA,Botswana,Africa,""Southern Africa"",581730,1966,1622000,39.3,4834.00,4935.00,Botswana,Republic,""Festus G. Mogae"",204,BW)",581730
+"(CAF,""Central African Republic"",Africa,""Central Africa"",622984,1960,3615000,44,1054.00,993.00,Centrafrique/Bê-Afrîka,Republic,""Ange-Félix Patassé"",1889,CF)",622984
+"(CAN,Canada,""North America"",""North America"",9.97061e+06,1867,31147000,79.4,598862.00,625626.00,Canada,""Constitutional Monarchy, Federation"",""Elisabeth II"",1822,CA)",9970610
+"(CCK,""Cocos (Keeling) Islands"",Oceania,""Australia and New Zealand"",14,,600,,0.00,,""Cocos (Keeling) Islands"",""Territory of Australia"",""Elisabeth II"",2317,CC)",14
+"(CHE,Switzerland,Europe,""Western Europe"",41284,1499,7160400,79.6,264478.00,256092.00,Schweiz/Suisse/Svizzera/Svizra,Federation,""Adolf Ogi"",3248,CH)",41284
+"(CHL,Chile,""South America"",""South America"",756626,1810,15211000,75.7,72949.00,75780.00,Chile,Republic,""Ricardo Lagos Escobar"",554,CL)",756626
+"(CHN,China,Asia,""Eastern Asia"",9.5729e+06,-1523,1277558000,71.4,982268.00,917719.00,Zhongquo,People'sRepublic,""Jiang Zemin"",1891,CN)",9572900
+"(CIV,""Côte dIvoire"",Africa,""Western Africa"",322463,1960,14786000,45.2,11345.00,10285.00,""Côte dIvoire"",Republic,""Laurent Gbagbo"",2814,CI)",322463
+"(CMR,Cameroon,Africa,""Central Africa"",475442,1960,15085000,54.8,9174.00,8596.00,Cameroun/Cameroon,Republic,""Paul Biya"",1804,CM)",475442
+"(COD,""Congo, The Democratic Republic of the"",Africa,""Central Africa"",2.34486e+06,1960,51654000,48.8,6964.00,2474.00,""République Démocratique du Congo"",Republic,""Joseph Kabila"",2298,CD)",2344860
+"(COG,Congo,Africa,""Central Africa"",342000,1960,2943000,47.4,2108.00,2287.00,Congo,Republic,""Denis Sassou-Nguesso"",2296,CG)",342000
+"(COK,""Cook Islands"",Oceania,Polynesia,236,,20000,71.1,100.00,,""The Cook Islands"",""Nonmetropolitan Territory of New Zealand"",""Elisabeth II"",583,CK)",236
+"(COL,Colombia,""South America"",""South America"",1.13891e+06,1810,42321000,70.3,102896.00,105116.00,Colombia,Republic,""Andrés Pastrana Arango"",2257,CO)",1138910
+"(COM,Comoros,Africa,""Eastern Africa"",1862,1975,578000,60,4401.00,4361.00,Komori/Comores,Republic,""Azali Assoumani"",2295,KM)",1862
+"(CPV,""Cape Verde"",Africa,""Western Africa"",4033,1975,428000,68.9,435.00,420.00,""Cabo Verde"",Republic,""António Mascarenhas Monteiro"",1859,CV)",4033
+"(CRI,""Costa Rica"",""North America"",""Central America"",51100,1821,4023000,75.8,10226.00,9757.00,""Costa Rica"",Republic,""Miguel Ángel Rodríguez Echeverría"",584,CR)",51100
+"(CUB,Cuba,""North America"",Caribbean,110861,1902,11201000,76.2,17843.00,18862.00,Cuba,""Socialistic Republic"",""Fidel Castro Ruz"",2413,CU)",110861
+"(CXR,""Christmas Island"",Oceania,""Australia and New Zealand"",135,,2500,,0.00,,""Christmas Island"",""Territory of Australia"",""Elisabeth II"",1791,CX)",135
+"(CYM,""Cayman Islands"",""North America"",Caribbean,264,,38000,78.9,1263.00,1186.00,""Cayman Islands"",""Dependent Territory of the UK"",""Elisabeth II"",553,KY)",264
+"(CYP,Cyprus,Asia,""Middle East"",9251,1960,754700,76.7,9333.00,8246.00,Kýpros/Kibris,Republic,""Glafkos Klerides"",2430,CY)",9251
+"(CZE,""Czech Republic"",Europe,""Eastern Europe"",78866,1993,10278100,74.5,55017.00,52037.00,¸esko,Republic,""Václav Havel"",3339,CZ)",78866
+"(DEU,Germany,Europe,""Western Europe"",357022,1955,82164700,77.4,2133367.00,2102826.00,Deutschland,""Federal Republic"",""Johannes Rau"",3068,DE)",357022
+"(DJI,Djibouti,Africa,""Eastern Africa"",23200,1977,638000,50.8,382.00,373.00,Djibouti/Jibuti,Republic,""Ismail Omar Guelleh"",585,DJ)",23200
+"(DMA,Dominica,""North America"",Caribbean,751,1978,71000,73.4,256.00,243.00,Dominica,Republic,""Vernon Shaw"",586,DM)",751
+"(DNK,Denmark,Europe,""Nordic Countries"",43094,800,5330000,76.5,174099.00,169264.00,Danmark,""Constitutional Monarchy"",""Margrethe II"",3315,DK)",43094
+"(DOM,""Dominican Republic"",""North America"",Caribbean,48511,1844,8495000,73.2,15846.00,15076.00,""República Dominicana"",Republic,""Hipólito Mejía Domínguez"",587,DO)",48511
+"(DZA,Algeria,Africa,""Northern Africa"",2.38174e+06,1962,31471000,69.7,49982.00,46966.00,Al-Jazair/Algérie,Republic,""Abdelaziz Bouteflika"",35,DZ)",2381740
+"(ECU,Ecuador,""South America"",""South America"",283561,1822,12646000,71.1,19770.00,19769.00,Ecuador,Republic,""Gustavo Noboa Bejarano"",594,EC)",283561
+"(EGY,Egypt,Africa,""Northern Africa"",1.00145e+06,1922,68470000,63.3,82710.00,75617.00,Misr,Republic,""Hosni Mubarak"",608,EG)",1001450
+"(ERI,Eritrea,Africa,""Eastern Africa"",117600,1993,3850000,55.8,650.00,755.00,Ertra,Republic,""Isayas Afewerki [Isaias Afwerki]"",652,ER)",117600
+"(ESH,""Western Sahara"",Africa,""Northern Africa"",266000,,293000,49.8,60.00,,As-Sahrawiya,""Occupied by Marocco"",""Mohammed Abdel Aziz"",2453,EH)",266000
+"(ESP,Spain,Europe,""Southern Europe"",505992,1492,39441700,78.8,553233.00,532031.00,España,""Constitutional Monarchy"",""Juan Carlos I"",653,ES)",505992
+"(EST,Estonia,Europe,""Baltic Countries"",45227,1991,1439200,69.5,5328.00,3371.00,Eesti,Republic,""Lennart Meri"",3791,EE)",45227
+"(ETH,Ethiopia,Africa,""Eastern Africa"",1.1043e+06,-1000,62565000,45.2,6353.00,6180.00,YeItyop´iya,Republic,""Negasso Gidada"",756,ET)",1104300
+"(FIN,Finland,Europe,""Nordic Countries"",338145,1917,5171300,77.4,121914.00,119833.00,Suomi,Republic,""Tarja Halonen"",3236,FI)",338145
+"(FJI,""Fiji Islands"",Oceania,Melanesia,18274,1970,817000,67.9,1536.00,2149.00,""Fiji Islands"",Republic,""Josefa Iloilo"",764,FJ)",18274
+"(FLK,""Falkland Islands"",""South America"",""South America"",12173,,2000,,0.00,,""Falkland Islands"",""Dependent Territory of the UK"",""Elisabeth II"",763,FK)",12173
+"(FRA,France,Europe,""Western Europe"",551500,843,59225700,78.8,1424285.00,1392448.00,France,Republic,""Jacques Chirac"",2974,FR)",551500
+"(FRO,""Faroe Islands"",Europe,""Nordic Countries"",1399,,43000,78.4,0.00,,Føroyar,""Part of Denmark"",""Margrethe II"",901,FO)",1399
+"(FSM,""Micronesia, Federated States of"",Oceania,Micronesia,702,1990,119000,68.6,212.00,,Micronesia,""Federal Republic"",""Leo A. Falcam"",2689,FM)",702
+"(GAB,Gabon,Africa,""Central Africa"",267668,1960,1226000,50.1,5493.00,5279.00,""Le Gabon"",Republic,""Omar Bongo"",902,GA)",267668
+"(GBR,""United Kingdom"",Europe,""British Islands"",242900,1066,59623400,77.7,1378330.00,1296830.00,""United Kingdom"",""Constitutional Monarchy"",""Elisabeth II"",456,GB)",242900
+"(GEO,Georgia,Asia,""Middle East"",69700,1991,4968000,64.5,6064.00,5924.00,Sakartvelo,Republic,""Eduard evardnadze"",905,GE)",69700
+"(GHA,Ghana,Africa,""Western Africa"",238533,1957,20212000,57.4,7137.00,6884.00,Ghana,Republic,""John Kufuor"",910,GH)",238533
+"(GIB,Gibraltar,Europe,""Southern Europe"",6,,25000,79,258.00,,Gibraltar,""Dependent Territory of the UK"",""Elisabeth II"",915,GI)",6
+"(GIN,Guinea,Africa,""Western Africa"",245857,1958,7430000,45.6,2352.00,2383.00,Guinée,Republic,""Lansana Conté"",926,GN)",245857
+"(GLP,Guadeloupe,""North America"",Caribbean,1705,,456000,77,3501.00,,Guadeloupe,""Overseas Department of France"",""Jacques Chirac"",919,GP)",1705
+"(GMB,Gambia,Africa,""Western Africa"",11295,1965,1305000,53.2,320.00,325.00,""The Gambia"",Republic,""Yahya Jammeh"",904,GM)",11295
+"(GNB,Guinea-Bissau,Africa,""Western Africa"",36125,1974,1213000,49,293.00,272.00,Guiné-Bissau,Republic,""Kumba Ialá"",927,GW)",36125
+"(GNQ,""Equatorial Guinea"",Africa,""Central Africa"",28051,1968,453000,53.6,283.00,542.00,""Guinea Ecuatorial"",Republic,""Teodoro Obiang Nguema Mbasogo"",2972,GQ)",28051
+"(GRC,Greece,Europe,""Southern Europe"",131626,1830,10545700,78.4,120724.00,119946.00,Elláda,Republic,""Kostis Stefanopoulos"",2401,GR)",131626
+"(GRD,Grenada,""North America"",Caribbean,344,1974,94000,64.5,318.00,,Grenada,""Constitutional Monarchy"",""Elisabeth II"",916,GD)",344
+"(GRL,Greenland,""North America"",""North America"",2.16609e+06,,56000,68.1,0.00,,""Kalaallit Nunaat/Grønland"",""Part of Denmark"",""Margrethe II"",917,GL)",2166090
+"(GTM,Guatemala,""North America"",""Central America"",108889,1821,11385000,66.2,19008.00,17797.00,Guatemala,Republic,""Alfonso Portillo Cabrera"",922,GT)",108889
+"(GUF,""French Guiana"",""South America"",""South America"",90000,,181000,76.1,681.00,,""Guyane française"",""Overseas Department of France"",""Jacques Chirac"",3014,GF)",90000
+"(GUM,Guam,Oceania,Micronesia,549,,168000,77.8,1197.00,1136.00,Guam,""US Territory"",""George W. Bush"",921,GU)",549
+"(GUY,Guyana,""South America"",""South America"",214969,1966,861000,64,722.00,743.00,Guyana,Republic,""Bharrat Jagdeo"",928,GY)",214969
+"(HKG,""Hong Kong"",Asia,""Eastern Asia"",1075,,6782000,79.5,166448.00,173610.00,""Xianggang/Hong Kong"",""Special Administrative Region of China"",""Jiang Zemin"",937,HK)",1075
+"(HMD,""Heard Island and McDonald Islands"",Antarctica,Antarctica,359,,0,,0.00,,""Heard and McDonald Islands"",""Territory of Australia"",""Elisabeth II"",,HM)",359
+"(HND,Honduras,""North America"",""Central America"",112088,1838,6485000,69.9,5333.00,4697.00,Honduras,Republic,""Carlos Roberto Flores Facussé"",933,HN)",112088
+"(HRV,Croatia,Europe,""Southern Europe"",56538,1991,4473000,73.7,20208.00,19300.00,Hrvatska,Republic,""tipe Mesic"",2409,HR)",56538
+"(HTI,Haiti,""North America"",Caribbean,27750,1804,8222000,49.2,3459.00,3107.00,Haïti/Dayti,Republic,""Jean-Bertrand Aristide"",929,HT)",27750
+"(HUN,Hungary,Europe,""Eastern Europe"",93030,1918,10043200,71.4,48267.00,45914.00,Magyarország,Republic,""Ferenc Mádl"",3483,HU)",93030
+"(IDN,Indonesia,Asia,""Southeast Asia"",1.90457e+06,1945,212107000,68,84982.00,215002.00,Indonesia,Republic,""Abdurrahman Wahid"",939,ID)",1904570
+"(IND,India,Asia,""Southern and Central Asia"",3.28726e+06,1947,1013662000,62.5,447114.00,430572.00,Bharat/India,""Federal Republic"",""Kocheril Raman Narayanan"",1109,IN)",3287260
